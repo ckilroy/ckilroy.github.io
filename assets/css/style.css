@@ -510,3 +510,16 @@ h1, h2, h3, h4, h5, h6 {
 .projects p {
   font-size: 13px;
 }
+
+.photo-wrapper {
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+i {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
