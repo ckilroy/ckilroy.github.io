@@ -548,3 +548,7 @@ a:hover {
 .col-lg-4 i {
   margin-right: 20px;
 }
+
+em {
+  font-size: 12px;
+}
